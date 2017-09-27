@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="field_main1">
+        <item>@string/field1</item>
+        <item>@string/field2</item>
+        <item>@string/field4</item>
+        <item>@string/field5</item>
+    </array>
+
+    <array name="field_main2">
+        <item>@string/field1</item>
+        <item>@string/field2</item>
+        <item>@string/field3</item>
+        <item>@string/field4</item>
+        <item>@string/field5</item>
+    </array>
+
+</resources>

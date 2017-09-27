@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Assignment1</string>
+    <string name="title">Assignment1</string>
+    <string name="field1">Name</string>
+    <string name="field2">Lastname</string>
+    <string name="field3">Birth Date</string>
+    <string name="field4">E-mail</string>
+    <string name="field5">PhoneNo.</string>
+    <string name="choose_date">Choose Date</string>
+    <string name="submit">Submit</string>
+    <string name="profile_image">Profile Image</string>
+</resources>
